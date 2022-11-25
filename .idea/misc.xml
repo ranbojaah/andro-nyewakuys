@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable-v24/border.xml" value="0.1995" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.1995" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable-v24/ic_baseline_menu_24.xml" value="0.1995" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.1995" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2275" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable-v24/shape.xml" value="0.1995" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable/border1.xml" value="0.2275" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2275" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable/shape2.xml" value="0.2275" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/drawable/splsh.xml" value="0.2275" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_civic.xml" value="0.176" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_creta.xml" value="0.3380281690140845" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_home.xml" value="0.21621621621621623" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_hrvactivity.xml" value="0.536" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_main_register.xml" value="0.21621621621621623" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_pajero.xml" value="0.4" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_rrover.xml" value="0.264" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_search.xml" value="0.20405405405405405" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_splash_screen.xml" value="0.21621621621621623" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/activity_ssearch.xml" value="0.264" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/dialog.xml" value="0.176" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/list.xml" value="0.21621621621621623" />
+        <entry key="..\:/Tugas Kejuruan kelas XI/KK 4/NyewaKuys/app/src/main/res/layout/menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
