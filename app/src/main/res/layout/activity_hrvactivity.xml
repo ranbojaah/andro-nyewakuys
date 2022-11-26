@@ -7,7 +7,7 @@
     tools:context=".HRVActivity">
 
     <ImageButton
-        android:id="@+id/imageButton2"
+        android:id="@+id/menu1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/white"
@@ -24,7 +24,7 @@
         android:text="NyewaKuys"
         android:textColor="@color/black"
         android:textSize="24dp"
-        app:layout_constraintStart_toEndOf="@+id/imageButton2"
+        app:layout_constraintStart_toEndOf="@+id/menu1"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
